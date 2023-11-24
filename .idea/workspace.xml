@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46ba3c55-1c63-4853-be12-c8255e5c92af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_10/Problem_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_10/src/SummationOfPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_11/Problem_11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_11/src/LargestProductInAGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_2/Problem_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_2/src/EvenFibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_3/Problem_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_3/src/LargestPrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/Problem_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_4/src/LargestPalindromeProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_5/Problem_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_5/src/SmallestMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_6/Problem_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_6/src/SumSquareDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_7/Problem_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_7/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_8/Problem_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_8/src/LargestProductInASeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_9/Problem_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem_9/src/SpecialPythagoreanTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectEuler.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2YdlnbP0X08L8A4iGzMApivcxT1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46ba3c55-1c63-4853-be12-c8255e5c92af" name="Changes" comment="" />
+      <created>1700863506038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700863506038</updated>
+      <workItem from="1700863507265" duration="5095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
